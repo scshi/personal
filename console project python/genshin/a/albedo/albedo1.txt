@@ -1,0 +1,15 @@
+******ASCENSIONS AND STATS******
+
+******Phase 0****** 
+
+******Level 1******
+
+Base HP --> 1030
+Base ATK --> 20
+Base DEF --> 68
+
+******Level 20******
+
+Base HP --> 2671
+Base ATK --> 51
+Base DEF --> 177

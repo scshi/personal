@@ -1,0 +1,22 @@
+******ASCENSIONS AND STATS******
+
+******Phase 1******
+
+******COST******
+
+Mora                    --> 20,000
+Prithiva Topaz Sliver 	--> 1
+Cecilia                 --> 3
+Divining scroll	        --> 3
+
+******LEVEL 20******
+
+Base HP 	--> 3554
+Base ATK 	--> 68
+Base DEF 	--> 235
+
+******LEVEL 40******
+
+Base HP 	--> 5317
+Base ATK	--> 101
+Base DEF	--> 352

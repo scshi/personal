@@ -1,0 +1,23 @@
+******ASCENSIONS AND STATS******
+
+******Phase 1******
+
+******COST******
+
+Mora                    --> 40,000
+Prithiva Topaz Fragment	--> 3
+Basalt Pillar		--> 2
+Cecilia                 --> 10
+Divining scroll	        --> 15
+
+******LEVEL 20******
+
+Base HP 	--> 5944
+Base ATK 	--> 113
+Base DEF 	--> 394
+
+******LEVEL 40******
+
+Base HP 	--> 6839
+Base ATK	--> 130
+Base DEF	--> 453
