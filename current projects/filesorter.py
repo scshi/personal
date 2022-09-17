@@ -45,7 +45,7 @@ def fileexplorer():
 def onlyfolders(path, list_):
     amtfolder = 0
     for i in range(len(list_)):
-        if os.path.isdir(path + list_[i]):
+        if os.path.isdir(path + "\\" + list_[i]):
             print("\033[1;33;40m | (Folder) - " + list_[i])
             amtfolder = amtfolder + 1
     return amtfolder
@@ -53,9 +53,11 @@ def onlyfolders(path, list_):
 def allfolders(path, list_):
     amtfolder = 0
     amtfile = 0
+    folder = []
+    file = []
     for i in range(len(list_)):
-            if os.path.isdir(path + list_[i]):
-                print("\033[1;33;40m | (Folder) - " + list_[i])
+            if os.path.isdir(path + "\\" + list_[i]):
+                folder = folder.append(list_[i])
                 amtfolder = amtfolder + 1
             else:
                 print("\033[1;30;40m | (File)   - " + list_[i])
